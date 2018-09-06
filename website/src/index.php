@@ -16,5 +16,6 @@
                 }
             ?>
         </ul>
+        <?php phpinfo(); ?>
     </body>
 </html>
